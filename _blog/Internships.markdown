@@ -14,7 +14,7 @@ caption: #what displays in the blog grid:
     code: 1
     title: Internships
     subtitle: subtitle
-    thumbnail: "/assets/blog/img/Internship-post.png"
+    thumbnail: http://urdatascience.ca/assets/blog/img/Internship-post.png
 ---
 
 Congratulations to Tandra Sandeep Reddy (MITACS) and Ghazal (Baran) Erfani (Summer intern), two members of the Data Science Lab who got valuable internships worth more than $46,000 in total only after 4 months of starting their studies in Canada. So proud of your achievements so far!
