@@ -7,7 +7,7 @@ date: Jun 14, 2020
 categories: internships
 
 
-image: {{ site.url }}/assets/blog/img/internship-post.png
+image: http://urdatascience.ca//assets/blog/img/internship-post.png
 alt: 
 
 caption: #what displays in the blog grid:
