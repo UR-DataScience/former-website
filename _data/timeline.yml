@@ -3,15 +3,15 @@ text: "Learn about the Major events of the Data Science Lab"
 section: timeline
 events:
   - title: "DEPtH lab"
-    year: "2009-2011"
-    desc: "Lorem ipsum dolor as sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+    year: "2019"
+    desc: ""
     image: assets/img/timeline/1.jpg
     alt:
     align: left
 #    animation: fade-left # optional
   - title: "Krate company"
-    year: "March 2011"
-    desc: "Lorem ipsum dolor sit asaamet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+    year: "June 2020"
+    desc: ""
     image: assets/img/timeline/2.jpg
     alt:
     align: right
