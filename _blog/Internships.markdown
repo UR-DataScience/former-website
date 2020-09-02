@@ -7,14 +7,14 @@ date: Jun 14, 2020
 categories: internships
 
 
-image: https://imgur.com/a/qqIfBqE
+image: https://ibb.co/16wKZLw
 alt: 
 
 caption: #what displays in the blog grid:
     code: 1
     title: Internships
     subtitle: subtitle
-    thumbnail: https://imgur.com/a/qqIfBqE
+    thumbnail: https://ibb.co/16wKZLw
 ---
 
 Use this area to describe your project. **Markdown** supported.
