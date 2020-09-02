@@ -12,7 +12,7 @@ alt: yazdan-Ranjbar
 email: Yazdan_ra@icloud.com
 email_text: 24 Hours
 
-number: "+98 935 5070 766"
+number: "(+98) 935 5070 766"
 number_text: Work
 
 address: Data Science Laboratory, CL 122, University of Regina, SK, CANADA.
@@ -31,6 +31,8 @@ social:
       icon: ion-social-twitter
     - url: https://instagram.com/yazdan__ra
       icon: ion-social-instagram
+    - url: https://github.com/yazdan_ra
+      icon: ion-social-github
     
 
 about: >-
@@ -89,7 +91,7 @@ timeline:
           text: >- 
             Remotely Working in the fields of Django, Python, C/C++, Unit Test, and etc.
             Scientific support at Quera College, the Iranian leader in Task-Oriented and Interactive Online Education in Programming and Algorithmic Thinking. I help students to solve and debug their codes and design, make tests, and validate programming problems and programming contest ordinator.
-        - title: Co-Founder
+        - title: Co-Founder, Full-stack Developer
           subtitle: AvaxVPN - Self-employee
           status: OCT 2019 - PRESENT
           text: >- 
@@ -101,9 +103,9 @@ footer:
       count: 1024
     - title: Contest participated
       count: 64
-    - title: Courses
+    - title: Passed Courses
       count: 20
-    - title: projects
+    - title: Successful Projects
       count: 16
       
 ---
