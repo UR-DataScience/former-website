@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  "Prospective M.Sc. and Ph.D. Students in Data Science, Deep Learning, and A.I."
+title:  "Student Positions"
 subtitle: ""
 date: Sep 02, 2020
 categories: job posting
@@ -12,8 +12,8 @@ alt:
 
 caption: #what displays in the blog grid:
   code: 2
-  title: Prospective M.Sc. and Ph.D. Students in Data Science, Deep Learning, and A.I.
-  subtitle: 
+  title: Student Positions
+  subtitle: We are accepting new M.Sc. Students for Spring/Fall 2021 at the Department of Computer Science at University of Regina (Data Science Laboratory). There is a full-funded opportunity for an exceptional M.Sc. or Ph.D. student.
   thumbnail: http://urdatascience.ca/assets/blog/img/UofR-logo.jpg
 ---
 
