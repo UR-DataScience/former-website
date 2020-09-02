@@ -17,9 +17,6 @@ caption: #what displays in the blog grid:
     thumbnail: "/assets/blog/img/internship-post.png"
 ---
 
-Use this area to describe your project. **Markdown** supported.
-
-
 Congratulations to Tandra Sandeep Reddy (MITACS) and Ghazal (Baran) Erfani (Summer intern), two members of the Data Science Lab who got valuable internships worth more than $46,000 in total only after 4 months of starting their studies in Canada. So proud of your achievements so far!
 
 #diligence #datasciencelab #training #students #mitacs
