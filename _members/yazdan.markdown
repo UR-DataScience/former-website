@@ -24,7 +24,7 @@ social:
     - url: https://linkedin.com/in/yazdanra/
       icon: ion-social-linkedin
     - url: http://yazdanra.github.io
-      icon: ion-social-link
+      icon: ion-link
     - url: https://FB.me/yazdanra
       icon: ion-social-facebook
     - url: https://twitter.com/yazdan__ra
