@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news_post
 
 title:  "Welcome to Jekyll!"
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquam amet beatae blanditiis delectus doloremque doloribus expedita facilis illum, iusto magni minima minus natus nostrum quidem quod sunt veniam veritatis?
@@ -8,13 +8,14 @@ categories: jekyll update
 
 
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
-alt: 
+alt:
+figcaption: this image shows nothing actually :)
 
 caption: #what displays in the blog grid:
-    code: 0
-    title: Example0
-    subtitle: subtitle
-    thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  code: 
+  title: Example0
+  subtitle: subtitle
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 ---
 
 Use this area to describe your project. **Markdown** supported.
