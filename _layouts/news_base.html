@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html lang="en-US">
 <head>
     {% include news/meta.html %}
     {% include news/head.html %}
 </head>
 
+{% if page.nav == post %}
+<body class="page-template-default page page-id-63 group-blog has_sidebar">
+{% else %}
 <body class="home blog group-blog layout-grid">
+{% endif %}
 
 <div id="page" class="hfeed site">
     <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
@@ -28,4 +31,3 @@
 
 {% include news/footer_script.html %}
 </body>
-</html>
