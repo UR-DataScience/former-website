@@ -32,7 +32,7 @@ layout: news_base
                            rel=&quot;category tag&quot;>{{ tag }}</a>
                     </span>
                         {% endfor %}
-                        <span class="byline">{{ news.date }}</span>
+                        <span class="byline">{{ news.date|date:"%Y %m %d" }}</span>
                     </div>
 
                     <a href="{{ news.url }}"
