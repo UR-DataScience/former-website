@@ -49,24 +49,16 @@
             </div>
             {%- endif -%}
 
-<!--            {%- if site.data.sitetext.header.text -%}-->
-<!--            <div class="intro-lead-in"-->
-<!--                 {%- if site.data.sitetext.header.textanimation -%}-->
-<!--                 data-aos="{{ site.data.sitetext.header.textanimation }}"-->
-<!--                 {%- endif -%}-->
-<!--            >-->
-<!--                {{ site.data.sitetext.header.text | markdownify }}-->
-<!--            </div>-->
-<!--            {%- endif -%}-->
-
+            {%- if site.data.sitetext.header.text -%}
             <h1>
                 The hub of data science
                 <span class="txt-rotate"
                       data-period="2000"
-                      data-rotate='[ "research", "training", "development", "activities", "projects"]'>
+                      data-rotate='{{ site.data.sitetext.header.text }}'>
                 </span>
                 at the <a href="https://uregina.ca">U of Regina</a>
             </h1>
+            {%- endif -%}
 
             {%- if site.data.sitetext.header.button -%}
             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
