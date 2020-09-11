@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-shrink" id="mainNav">
     <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top"
-           style = "font-family:georgia,garamond,serif;font-size:28px;">
+           style="font-family:georgia,garamond,serif;font-size:28px;">
             {%- if site.logo -%}
             <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}"/>
             {%- else -%}
@@ -49,15 +49,24 @@
             </div>
             {%- endif -%}
 
-            {%- if site.data.sitetext.header.text -%}
-            <div class="intro-lead-in"
-                 {%- if site.data.sitetext.header.textanimation -%}
-                 data-aos="{{ site.data.sitetext.header.textanimation }}"
-                 {%- endif -%}
-            >
-                {{ site.data.sitetext.header.text | markdownify }}
-            </div>
-            {%- endif -%}
+<!--            {%- if site.data.sitetext.header.text -%}-->
+<!--            <div class="intro-lead-in"-->
+<!--                 {%- if site.data.sitetext.header.textanimation -%}-->
+<!--                 data-aos="{{ site.data.sitetext.header.textanimation }}"-->
+<!--                 {%- endif -%}-->
+<!--            >-->
+<!--                {{ site.data.sitetext.header.text | markdownify }}-->
+<!--            </div>-->
+<!--            {%- endif -%}-->
+
+            <h1>
+                The hub of data science
+                <span class="txt-rotate"
+                      data-period="2000"
+                      data-rotate='[ "research", "training", "development"]'>
+                </span>
+                at the <a href="https://uregina.com">U of Regina</a>
+            </h1>
 
             {%- if site.data.sitetext.header.button -%}
             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
