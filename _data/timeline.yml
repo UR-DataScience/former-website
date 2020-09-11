@@ -6,14 +6,14 @@ events:
   - title: "Growth"
     year: "2020"
     desc: "Collaboration with DEPtH Lab <br> MITACS Accelerate Internships <br> Kaggle Grant"
-    image: assets/img/timeline/LabSetup.jpg
+    image: assets/img/timeline/Lab_Setup.jpg
     alt:
     align: left
 #    animation: fade-left # optional
   - title: "Inception"
     year: "2019"
     desc: "Lab Space Setup <br> Collaborations <br> NVidia Grant"
-    image: assets/img/timeline/lab_start2.jpg
+    image: assets/img/timeline/Lab_Start_2.jpg
     alt:
     align: right
 #    animation: fade-right # optional
