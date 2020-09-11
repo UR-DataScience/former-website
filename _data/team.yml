@@ -3,7 +3,7 @@ groups:
   - main:
     title: "Faculty Members"
     text: "Take a closer look into our amazing team."
-    subtext: If you are interested in joining the data science team as a collaboratior, advisor, student, or volunteer, please don't hesitate to send an email.
+    subtext: If you are interested in joining the data science team as a collaboratior, advisor, student, or volunteer, please don't hesitate to send us an email.
     button: Join us # optional
     buttonlink: "#" # "URL/page link"
     members:
