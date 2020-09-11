@@ -1,9 +1,9 @@
 section: team
 groups:
   - main:
-    title: "OUR AMAZING TEAM"
+    title: "Faculty Members"
     text: "Take a closer look into our amazing team."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: If you are interested in joining the data science team as a collaboratior, advisor, student, or volunteer, please don't hesitate to send an email.
     button: Join us # optional
     buttonlink: "#" # "URL/page link"
     members:
@@ -16,7 +16,7 @@ groups:
             icon: fab fa-linkedin-in
   - interns:
     title: "Graduate Students"
-    text: "default text"
+    text: "Take a closer look into our amazing team."
     members:
       - name: "Sandeep Tandra"
         role: "Graduate Student (M.Sc.)"
@@ -33,25 +33,33 @@ groups:
         social:
           - url: https://www.linkedin.com/in/vineelgannu
             icon: fab fa-linkedin-in
-
+            
       - name: "Vignesh Shankar"
         role: "Graduate Student (M.Sc.)"
         image: assets/img/team/Vignesh_Shankar.jpg
         social:
           - url: https://www.linkedin.com/in/vigneshshankar30/
             icon: fab fa-linkedin-in
+            
+       - name: "Henrik Steenbock"
+        role: "Graduate Student (M.Sc.)"
+        #image: assets/img/team/Vignesh_Shankar.jpg
+        social:
+          - url: https://www.linkedin.com/in/henrik-steenbock-a3464a174/
+            icon: fab fa-linkedin-in
+            
   - volunteers:
-    title: "Research Students"
+    title: "Research Assistants"
     text: "default text"
     members:
       - name: "Mahtab Farokhfari"
-        role: "MBA Student"
+        role: "Research Assistant & Coordinator"
         image: assets/img/team/Mahtab_Farokhfari.jpg
         social:
           - url: https://www.linkedin.com/in/mahtab-farokhfari-6190801ab/
             icon: fab fa-linkedin-in
       - name: "Ghazal (Baran) Erfani"
-        role: "Undergraduate Researcher"
+        role: "Research Assistant"
         link: http://urdatascience.ca/members/baran/
         image: assets/img/team/Baran_Erfani.jpg
         social:
