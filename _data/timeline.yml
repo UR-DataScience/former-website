@@ -1,22 +1,23 @@
-title: "Data Science lab over time"
-text: "Learn about the Major events of the Data Science Lab"
+title: "Data Science Lab over time"
+text: ""
+#text: "Learn about the Major events of the Data Science Lab"
 section: timeline
 events:
-  - title: "DEPtH lab"
-    year: "2019"
-    desc: ""
-    image: assets/img/timeline/1.jpg
+  - title: "Growth"
+    year: "2020"
+    desc: "Collaboration with DEPtH Lab <br> MITACS Accelerate Internships <br> Kaggle Grant"
+    image: assets/img/timeline/LabSetup.jpg
     alt:
     align: left
 #    animation: fade-left # optional
-  - title: "Krate company"
-    year: "June 2020"
-    desc: ""
-    image: assets/img/timeline/2.jpg
+  - title: "Inception"
+    year: "2019"
+    desc: "Lab Space Setup <br> Collaborations <br> NVidia Grant"
+    image: assets/img/timeline/lab_start2.jpg
     alt:
     align: right
 #    animation: fade-right # optional
 end: "Be Part <br> of Our <br> Story!"
 subtext: We are here to help you solve your data science problems by providing state-of-the-art business solutions that fits your IT ecosystem. Still in doubt? Give us a try.
 button: Contact us # optional
-buttonlink: "mailto:manashty@outlook.com" # "URL/page link" optional
+buttonlink: "mailto:alireza.manashty@uregina.com" # "URL/page link" optional
