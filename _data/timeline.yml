@@ -6,7 +6,7 @@ events:
   - title: "Growth"
     year: "2020"
     desc: "Collaboration with DEPtH Lab <br> MITACS Accelerate Internships <br> Kaggle Grant"
-    image: assets/img/timeline/Lab_Setup.jpg
+    image: assets/img/timeline/animated.GIF
     alt:
     align: left
 #    animation: fade-left # optional
