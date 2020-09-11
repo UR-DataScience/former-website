@@ -41,7 +41,7 @@ groups:
           - url: https://www.linkedin.com/in/vigneshshankar30/
             icon: fab fa-linkedin-in
             
-       - name: "Henrik Steenbock"
+      - name: "Henrik Steenbock"
         role: "Graduate Student (M.Sc.)"
         image: assets/img/team/Man_Default.jpg
         social:
