@@ -50,7 +50,7 @@ groups:
             
   - volunteers:
     title: "Research Assistants"
-    text: "default text"
+    text: "Highly qualified students helping with ongoing research projects at DSL."
     members:
       - name: "Mahtab Farokhfari"
         role: "Research Assistant & Coordinator"
