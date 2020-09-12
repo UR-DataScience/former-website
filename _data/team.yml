@@ -2,7 +2,7 @@ section: team
 groups:
   - main:
     title: "Faculty Members"
-    text: "Take a closer look into our amazing team."
+    text: "Faculty Members and Collaborators"
     subtext: If you are interested in joining the data science team as a collaboratior, advisor, student, or volunteer, please don't hesitate to send us an email.
     button: Join us # optional
     buttonlink: "mailto:alireza.manashty@uregina.ca" # "URL/page link"
@@ -13,6 +13,13 @@ groups:
         image: assets/img/team/Alireza_Manashty.jpg
         social:
           - url: https://linkedin.com/in/manashty/
+            icon: fab fa-linkedin-in
+      - name: "Dr. Stephen Lee"
+        role: "Assistant Professor<br>University of Saskatchewan"
+        #link: http://urdatascience.ca/members/alireza/
+        image: assets/img/team/Stephen_Lee.jpg
+        social:
+          - url: https://www.linkedin.com/in/stephen-lee222/
             icon: fab fa-linkedin-in
   - interns:
     title: "Graduate Students"
