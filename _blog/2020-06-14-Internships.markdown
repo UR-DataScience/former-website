@@ -11,7 +11,7 @@ image: http://urdatascience.ca/assets/blog/img/Internship-post.png
 alt: 
 
 caption: #what displays in the blog grid:
-    code: 1
+    code: 2
     title: Internships
     subtitle: 
     thumbnail: http://urdatascience.ca/assets/blog/img/Internship-post-sqr.jpg

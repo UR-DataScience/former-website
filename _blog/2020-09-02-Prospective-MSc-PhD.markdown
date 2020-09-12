@@ -11,7 +11,7 @@ image:
 alt: 
 
 caption: #what displays in the blog grid:
-  code: 2
+  code: 3
   title: Student Positions
   subtitle: 
   thumbnail: http://urdatascience.ca/assets/blog/img/UofR-logo.jpg
