@@ -1,0 +1,8 @@
+title: News
+text: " "
+section: news
+index: [1, ]
+subtitle: " "
+button:
+  text: More News
+  link: http://urdatascience.ca/news/

@@ -12,7 +12,7 @@ alt:
 figcaption: this image shows nothing actually :)
 
 caption: #what displays in the blog grid:
-  code: 
+  code: 1
   title: Example0
   subtitle: subtitle
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
