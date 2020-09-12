@@ -1,3 +1,4 @@
+{% if site.data.news.is_active %}
 <section class="bg-light page-section" id="{{ site.data.news.section | default: "news" }}">
 <div class="container">
     <div class="row">
@@ -34,7 +35,7 @@
                 <!-- Subtitle -->
                 <h6 class="font-weight-bold indigo-text py-2">
                     {% for tag in news.categories %}
-                    {% if forloop.index < 4 %}
+                    {% if forloop.index < site.data.news.tag_limit %}
                     {{ tag }},
                     {% endif %}
                     {% endfor %}
@@ -70,3 +71,4 @@
     {%- endif -%}
 </div>
 </section>
+{% endif %}
