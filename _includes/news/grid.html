@@ -32,7 +32,14 @@
                 <!-- Title -->
                 <h4 class="card-title"><strong>{{ news.caption.title }}</strong></h4>
                 <!-- Subtitle -->
-                <h6 class="font-weight-bold indigo-text py-2">{{  }}</h6>
+                <h6 class="font-weight-bold indigo-text py-2">
+                    {% for tag in news.categories %}
+                    {% if forloop.index < 4 %}
+                    {{ tag }},
+                    {% endif %}
+                    {% endfor %}
+                    ...
+                </h6>
                 <!-- Text -->
                 <p class="card-text">
                     {{ news.subtitle }}
@@ -63,4 +70,3 @@
     {%- endif -%}
 </div>
 </section>
-{% include blog/modals.html %}

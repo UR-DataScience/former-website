@@ -4,7 +4,7 @@ layout: news_post
 title:  "Welcome to Jekyll!"
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquam amet beatae blanditiis delectus doloremque doloribus expedita facilis illum, iusto magni minima minus natus nostrum quidem quod sunt veniam veritatis?
 date: Jan 14, 2020
-categories: jekyll update
+categories: jekyll update test yazdan ICanDoThis
 
 
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
