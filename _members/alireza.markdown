@@ -4,21 +4,21 @@ title: Alireza Manashty
 permalink: /members/alireza/
 
 name: Alireza Manashty
-role: Lab Director
+role: Director, Data Science Laboratory <br> Assistant Professor, Computer Science Department <br> University of Regina
 
 image: "/assets/img/team/Alireza_Manashty.jpg"
 alt: alireza_manashty
 
-email: a.r.manashty@gmail.com
-email_text: 24 Hours
+email: firstname.lastname@uregina.ca
+#email_text: 24 Hours
 
 number: "+1 (506) 898-2227"
-number_text: Text only
+#number_text: Text only
 
 address: CW 308.25, University of Regina, Regina, SK, Canada
-address_text: Work
+#address_text: Work
 
-born: 1988
+#born: 
 
 social:
     - url: https://linkedin.com/manashty/
