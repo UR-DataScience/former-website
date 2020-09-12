@@ -53,11 +53,11 @@
         {% endfor %}
         {% endfor %}
     </div>
-    {%- if site.data.blog.button -%}
+    {%- if site.data.news.button -%}
     <div class="row">
         <div class="col-lg-4 mx-auto text-center">
             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
-               href="{{ site.data.blog.buttonlink }}">{{ site.data.blog.button }}</a>
+               href="{{ site.data.news.button.link }}">{{ site.data.news.button.text }}</a>
         </div>
     </div>
     {%- endif -%}
