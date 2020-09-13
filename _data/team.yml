@@ -47,7 +47,7 @@ groups:
     text: " "
     members:
       - name: "Sandeep Tandra"
-        role: "M.Sc. Student <br> Computer Science"
+        role: "M.Sc. Student in Computer Science"
         image: assets/img/team/Sandeep_Tandra.jpg
         link: http://urdatascience.ca/members/sandeep/
         social:

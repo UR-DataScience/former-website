@@ -32,15 +32,15 @@ about: >-
  Instructor & professional trainer: 7 years of teaching main CS undergraduate courses. Data science trainer.
  
 
-skills:
-    - title: Machine Learning
-      level: 80
-    - title: Data Scinece
-      level: 80
-    - title: Big Data Analytics
-      level: 80
-    - title: Management
-      level: 80
+#skills:
+#    - title: Machine Learning
+#      level: 95
+#    - title: Data Scinece
+#      level: 95
+#    - title: Big Data Analytics
+#      level: 95
+#    - title: Management
+#      level: 95
       
 
 purple:
@@ -83,19 +83,17 @@ timeline:
             Activities and Societies: ACM Programming Competition Judge
             Ranked 1st among classmates
             
-footer:
-    - title: Happy Client
-      count: 128
-    - title: Project
-      count: 64
-    - title: Course
-      count: 32
-    - title: contribute
-      count: 16
+#footer:
+#    - title: Happy Client
+#      count: 128
+#    - title: Project
+#      count: 64
+#    - title: Course
+#      count: 32
+#    - title: contribute
+#      count: 16
 ---
 
-# Title
-Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sodales. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit, 
-quis consequat nulla effi citur at. Maecenas sed massa tristique.Duis non volutpat arcu, 
-eu mollis tellus. Sed finibus aliquam neque sit amet sodales.
+# Publications
+[Google Scholar](https://scholar.google.com/citations?user=oTFzSi0AAAAJ&hl=en)
+
